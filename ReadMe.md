@@ -16,7 +16,7 @@ $ npm install -g .
 # generate CrowdSale & Token Solidity Code
 $ tokyo generate --input <tokyo_schem.json>
 
-#optional you can use i instead of input)
+#optional You can use i instead of input
 $ tokyo generate --i <tokyo_schem.json> --out <~/dir>
 
 # flattening code for verification on etherscan
