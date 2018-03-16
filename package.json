@@ -2,13 +2,13 @@
   "name": "tokyo-project-onther",
   "version": "1.0.0",
   "description": "tokyo project cli made by onther",
-  "main": "cli.js",
   "keyword": [
     "test"
   ],
   "bin": {
-    "tokyo": "./cli.js"
+    "tokyo": "cli.js"
   },
+  "preferGlobal": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
