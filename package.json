@@ -30,9 +30,9 @@
     "lodash": "^4.17.5",
     "node-plantuml": "^0.5.0",
     "npm": "^5.7.1",
-    "tokyo-diagram-generator": "^1.0.0",
+    "tokyo-diagram-generator": "^1.0.1",
     "tokyo-solidity-template": "file:submodule/tokyo-solidity-template",
-    "tokyo-truffle-flattener": "^1.2.3",
-    "yargs": "^11.0.0"
+    "tokyo-truffle-flattener": "^1.2.4",
+    "yargs": "^11.1.0"
   }
 }

@@ -8,3 +8,5 @@ truffle-config.js
 
 rbg.json
 
+.DS_Store
+
