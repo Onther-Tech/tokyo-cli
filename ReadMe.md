@@ -10,7 +10,7 @@ Cli for Tokyo
 $ git clone https://github.com/Onther-Tech/tokyo.git
 $ cd tokyo && git submodule update --init --recursive
 $ npm install && npm run build
-# install tokyo-solidity-template as global package
+# install tokyo as global package
 $ npm install -g .
 
 # generate CrowdSale & Token Solidity Code
