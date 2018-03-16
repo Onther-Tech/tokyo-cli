@@ -22,7 +22,8 @@ $ tokyo generate --i <tokyo_schem.json> --out <~/dir>
 # flattening code for verification on etherscan
 $ tokyo flatten --input <soliditycode.sol>
 
-# draw diagram 
+# draw diagram ! You should compile first before draw diagram 
+$ truffle compile
 $ tokyo draw --input <soliditycode.sol>
 
 # optional You can draw just contract relation
