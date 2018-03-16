@@ -1,0 +1,38 @@
+{
+  "name": "tokyo-project-onther",
+  "version": "1.0.0",
+  "description": "tokyo project cli made by onther",
+  "main": "cli.js",
+  "keyword": [
+    "test"
+  ],
+  "bin": {
+    "tokyo": "./cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "kemuxx",
+    "email": "kemusin1@gmail.com",
+    "url": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/Onther-tech/tokyo"
+  },
+  "bugs": {
+    "url": "http://github.com/Onther-tech/tokyo"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "find-up": "^2.1.0",
+    "lodash": "^4.17.5",
+    "node-plantuml": "^0.5.0",
+    "npm": "^5.7.1",
+    "tokyo-diagram-generator": "^1.0.0",
+    "tokyo-solidity-template": "file:submodule/tokyo-solidity-template",
+    "tokyo-truffle-flattener": "^1.2.3",
+    "yargs": "^11.0.0"
+  }
+}

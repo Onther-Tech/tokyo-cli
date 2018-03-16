@@ -1,0 +1,3 @@
+[submodule "submodule/tokyo-solidity-template"]
+	path = submodule/tokyo-solidity-template
+	url = https://github.com/Onther-Tech/tokyo-solidity-template
